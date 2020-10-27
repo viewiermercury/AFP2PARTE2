@@ -6,6 +6,7 @@
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="INIT Msg.lvclass" Type="LVClass" URL="../../USD ACTOR Messages/INIT Msg/INIT Msg.lvclass"/>
+		<Item Name="Proceso Moneda Msg.lvclass" Type="LVClass" URL="../../USD ACTOR Messages/Proceso Moneda Msg/Proceso Moneda Msg.lvclass"/>
 	</Item>
 	<Item Name="USD ACTOR.lvclass" Type="LVClass" URL="../USD ACTOR.lvclass"/>
 </Library>
