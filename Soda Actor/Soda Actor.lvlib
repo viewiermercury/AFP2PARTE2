@@ -5,7 +5,9 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Comprar Msg.lvclass" Type="LVClass" URL="../../Soda Actor Messages/Comprar Msg/Comprar Msg.lvclass"/>
 		<Item Name="init Msg.lvclass" Type="LVClass" URL="../../Soda Actor Messages/init Msg/init Msg.lvclass"/>
+		<Item Name="Seleccionar Msg.lvclass" Type="LVClass" URL="../../Soda Actor Messages/Seleccionar Msg/Seleccionar Msg.lvclass"/>
 	</Item>
 	<Item Name="Soda Actor.lvclass" Type="LVClass" URL="../Soda Actor.lvclass"/>
 </Library>
