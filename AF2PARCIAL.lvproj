@@ -21,6 +21,7 @@
 		</Item>
 		<Item Name="UI Actor.lvlib" Type="Library" URL="../UI Actor/UI Actor.lvlib"/>
 		<Item Name="launcher.vi" Type="VI" URL="../launcher.vi"/>
+		<Item Name="Actor M.lvlib" Type="Library" URL="../Actor M/Actor M.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
