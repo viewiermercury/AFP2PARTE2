@@ -6,9 +6,11 @@
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Comprar Msg.lvclass" Type="LVClass" URL="../../UI Actor Messages/Comprar Msg/Comprar Msg.lvclass"/>
+		<Item Name="comprarcafe Msg.lvclass" Type="LVClass" URL="../../UI Actor Messages/comprarcafe Msg/comprarcafe Msg.lvclass"/>
 		<Item Name="Credit update1 Msg.lvclass" Type="LVClass" URL="../../UI Actor Messages/Credit update1 Msg/Credit update1 Msg.lvclass"/>
 		<Item Name="INIT Msg.lvclass" Type="LVClass" URL="../../UI Actor Messages/INIT Msg/INIT Msg.lvclass"/>
 		<Item Name="preciovscosto Msg.lvclass" Type="LVClass" URL="../../UI Actor Messages/preciovscosto Msg/preciovscosto Msg.lvclass"/>
+		<Item Name="preciovscostocafe Msg.lvclass" Type="LVClass" URL="../../UI Actor Messages/preciovscostocafe Msg/preciovscostocafe Msg.lvclass"/>
 		<Item Name="seleccion Msg.lvclass" Type="LVClass" URL="../../UI Actor Messages/seleccion Msg/seleccion Msg.lvclass"/>
 	</Item>
 	<Item Name="UI Actor.lvclass" Type="LVClass" URL="../UI Actor.lvclass"/>
